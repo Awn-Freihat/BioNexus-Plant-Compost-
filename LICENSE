@@ -1,21 +1,53 @@
-MIT License
+Here's an expanded and clarified version of your MIT License:
 
-Copyright (c) 2025 Awn Freihat
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### **MIT License**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (c) 2025 **Awn Freihat**
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is hereby granted, free of charge, to any person who obtains a copy  
+of this software and its associated documentation files (referred to as the "Software"),  
+to use the Software freely without restrictions. This includes, but is not limited to,  
+the rights to:
+
+- **Use** the Software for any purpose.  
+- **Copy** and share the Software.  
+- **Modify** the Software to suit specific needs.  
+- **Merge** the Software into other projects.  
+- **Publish** the Software in any form.  
+- **Distribute** the Software to others.  
+- **Sub-license** the Software, allowing others to use it under similar terms.  
+- **Sell** copies of the Software, either as-is or as part of a larger product.  
+
+However, these permissions are subject to the following conditions:
+
+1. **Attribution**: The above copyright notice and this permission notice must be included in all  
+   copies or significant portions of the Software. This ensures proper credit is given to the  
+   original author(s) while allowing others to benefit from and build upon their work.
+
+---
+
+### **Disclaimer of Warranty**
+
+This Software is provided "AS IS", without any guarantees or warranties of any kind.  
+This includes both express and implied warranties, such as:  
+
+- **Merchantability**: The Software might not work for all commercial purposes.  
+- **Fitness for a Particular Purpose**: The Software may not fulfill every user’s needs or expectations.  
+- **Non-infringement**: The author does not guarantee that the Software won’t unintentionally infringe on third-party rights.  
+
+---
+
+### **Limitation of Liability**
+
+Under no circumstances shall the author(s) or copyright holders be held responsible for:  
+
+- Claims or disputes arising from the use of the Software.  
+- Any damages, whether direct or indirect, including financial losses, data loss, or other issues caused by using the Software.  
+- Any legal, contractual, or tort-related issues related to the Software.  
+
+---
+
+### **Final Note**  
+This license promotes innovation and collaboration by allowing others to use, improve, and share the Software without significant restrictions. However, it also protects the author from potential misuse or liability, encouraging open-source contributions responsibly.
